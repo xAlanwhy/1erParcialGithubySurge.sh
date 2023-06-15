@@ -19,4 +19,4 @@ jobs:
         npm install --global surge
         surge token 5030f7ebf17c533ff12df8a7c164cba0
         # Desplegar en Surge.sh
-        surge --project ./ --domain 1erparcialalan.surge.sh
+        surge --project ./ --domain 1erparcialalan.surge.shgit
